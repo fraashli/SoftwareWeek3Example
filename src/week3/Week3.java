@@ -7,7 +7,7 @@ package week3;
 
 /**
  *
- * @author ashli
+ * @author ashli-francis
  */
 public class Week3 {
 
