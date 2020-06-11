@@ -22,7 +22,7 @@ public class Week3 {
         //editing in branch
         //editing branch in remote repository 
         //..fetched test
-        
+        //...pull test
     }
     
 }
